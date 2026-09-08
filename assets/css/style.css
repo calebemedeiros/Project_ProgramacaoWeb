@@ -1,0 +1,35 @@
+/* O Bootstrap cuida da estrutura; aqui ficam as cores do projeto. */
+body {
+    background-color: #f4f2ee;
+    color: #303630;
+}
+
+.consulta {
+    border: 1px solid #dfe3dc;
+    border-top: 5px solid #42634c;
+}
+
+.subtitulo {
+    color: #42634c;
+    letter-spacing: .12em;
+}
+
+.btn-primary {
+    --bs-btn-bg: #42634c;
+    --bs-btn-border-color: #42634c;
+    --bs-btn-hover-bg: #304c38;
+    --bs-btn-hover-border-color: #304c38;
+    --bs-btn-active-bg: #263d2d;
+    --bs-btn-active-border-color: #263d2d;
+    --bs-btn-focus-shadow-rgb: 66, 99, 76;
+}
+
+.form-control:focus {
+    border-color: #42634c;
+    box-shadow: 0 0 0 .25rem rgba(66, 99, 76, .25);
+}
+
+.periodo {
+    color: #304c38;
+    background-color: #edf2ec;
+}

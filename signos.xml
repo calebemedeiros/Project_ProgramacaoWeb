@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013261.png</icone>
+        <descricao>Áries é associado à iniciativa e à coragem. Na astrologia, representa pessoas que gostam de começar projetos e encarar desafios, mas que podem agir com impaciência.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013263.png</icone>
+        <descricao>Touro é associado à persistência e à busca por estabilidade. Valoriza o conforto e a segurança, embora possa ter dificuldade para aceitar mudanças.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013267.png</icone>
+        <descricao>Gêmeos é ligado à comunicação e à curiosidade. Costuma representar o interesse por novas ideias e conversas, com uma tendência a se envolver em várias atividades ao mesmo tempo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013269.png</icone>
+        <descricao>Câncer é associado à sensibilidade e ao cuidado com as pessoas próximas. Os vínculos afetivos e as lembranças têm destaque nas características atribuídas a esse signo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013272.png</icone>
+        <descricao>Leão é ligado à criatividade, à generosidade e à confiança. Gosta de expressar suas ideias e receber reconhecimento, mas pode precisar lidar com o orgulho.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013276.png</icone>
+        <descricao>Virgem é associado à organização e à atenção aos detalhes. Busca soluções práticas para o dia a dia e pode ser bastante exigente consigo e com os outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013277.png</icone>
+        <descricao>Libra é ligado ao equilíbrio e à convivência. Procura ouvir diferentes opiniões e evitar conflitos, o que às vezes torna as decisões mais demoradas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/512/3013/3013279.png</icone>
+        <descricao>Escorpião é associado à intensidade e à determinação. Valoriza relações de confiança e costuma se dedicar profundamente ao que considera importante.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013281.png</icone>
+        <descricao>Sagitário é ligado ao entusiasmo e à liberdade. Tem interesse por descobertas e novas experiências, embora a franqueza possa aparecer em momentos pouco oportunos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013285.png</icone>
+        <descricao>Capricórnio é associado à responsabilidade e à disciplina. Valoriza o planejamento e a construção de resultados ao longo do tempo, com persistência diante das dificuldades.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013287.png</icone>
+        <descricao>Aquário é ligado à independência e à originalidade. Costuma representar a vontade de questionar costumes e pensar em mudanças que beneficiem o coletivo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <icone>https://cdn-icons-png.magnific.com/256/3013/3013289.png</icone>
+        <descricao>Peixes é associado à imaginação e à empatia. Tem destaque pela sensibilidade e pela atenção aos sentimentos, mas pode encontrar dificuldade em estabelecer limites.</descricao>
+    </signo>
+</signos>
